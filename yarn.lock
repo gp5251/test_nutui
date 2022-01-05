@@ -1319,6 +1319,13 @@
     webpack-format-messages "^2.0.5"
     yauzl "2.10.0"
 
+"@tarojs/plugin-html@^3.3.19":
+  version "3.3.19"
+  resolved "https://registry.npmmirror.com/@tarojs/plugin-html/download/@tarojs/plugin-html-3.3.19.tgz#2c164a526ef6868d64e1b927f5cd908a9ad6fcf1"
+  integrity sha512-wSWmilFNg6iC4MMGTF6XQ0a9auAJPSyh/sL7MWetE69LLH6CxdO64mcngqbgF9ZgsbDl2f4NTIKxdnIAGHPyoQ==
+  dependencies:
+    "@tarojs/shared" "3.3.19"
+
 "@tarojs/plugin-platform-alipay@3.3.17":
   version "3.3.17"
   resolved "https://registry.npmmirror.com/@tarojs/plugin-platform-alipay/download/@tarojs/plugin-platform-alipay-3.3.17.tgz#d6f4e20760714e70e98cc22de73702099399ca9b"
@@ -1418,6 +1425,11 @@
   version "3.3.17"
   resolved "https://registry.npmmirror.com/@tarojs/shared/download/@tarojs/shared-3.3.17.tgz#f0c86faac87342f812def83027f5c99c6a30c086"
   integrity sha512-AAshjnF8kMnHsK3vim4PIZbuaYrji8Aj7e8xsw5lZ6tpURlGygoglROopm4YRCpH2F53XzOgVja8Avkyl6pMLQ==
+
+"@tarojs/shared@3.3.19":
+  version "3.3.19"
+  resolved "https://registry.npmmirror.com/@tarojs/shared/download/@tarojs/shared-3.3.19.tgz#e75d8d3fe7cb7721218bad0fd568be3442e3b853"
+  integrity sha512-DXlPltpIV8pTy/4jp69zhT65ltdeaKjAw7NJI887tLEac5KdKVKlaeffHOSWyS0snsMQ6MyR8ZNlNlV4sykpDg==
 
 "@tarojs/taro-h5@3.3.17":
   version "3.3.17"
